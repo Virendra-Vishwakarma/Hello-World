@@ -1,4 +1,4 @@
-# Hello-World
+# Hello-World\n
 just Trying
-i ilke to solve ML datasets and it's my first program on Github
-i hope this journey will be amazing. 
+I ilke to solve ML datasets and it's my first program on Github
+I hope this journey will be amazing. 
